@@ -1,10 +1,7 @@
 {
   "Post": {
     "title": { 
-      "loremWords": { "minLength": 5, "maxLength": 20 }
-    },
-    "comments": {
-      "hasMany": "Comment"
+      "loremWords": { "minLength": 15, "maxLength": 32 }
     }
   }
 }
